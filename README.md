@@ -4,6 +4,8 @@ npm update
 
 ## Reference:
 Mongoose
+Require.js
+Backbone
 
 http://mongoosejs.com/docs/api.html#model_Model.update
 
